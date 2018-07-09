@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "git项目" );
+        System.out.println("master first commit");
     }
 }
