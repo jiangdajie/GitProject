@@ -16,5 +16,9 @@ public class App
 
         System.out.println("在IDEA 上第一次 提交");
         // 在IDEA上 测试pull 123456
+
+        System.out.println("在IDEA上 分支的 第一次commit");
+
+        System.out.println("在IDEA上合并分支");
     }
 }
